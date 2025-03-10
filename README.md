@@ -1,4 +1,4 @@
-# AI Agent Index AI Agent Directory to Host and Track All AI Agent related AI Agents Web Traffic Data, Search Ranking, Community, Reviews and More.
+# AI Agent Index | AI Agent Directory | AI Agent Marketplace to Host All AI Agent Directory related AI Agents Web Traffic Data, Search Ranking, Community, Reviews and More.
 
 This is the official github repo for pypi package "ai_agent_directory" https://pypi.org/project/ai_agent_index. You can use this package to download and get statistics (Google/Bing Search Ranking/Github Stars/Website Traffic) of AI agents on website from AI Agent Marketplace AI Agent Directory and AI Agent Search Portal by Deepnlp AI Agent Marketplace, is the directory for more than 5000+ AI Agents and Apps covering various types of AI agents, such as autonomous agent, chatbots, Computer and Mobile phone use agents, robotic agents, and various industries such as business, finance, law, medical or healthcare, etc. The directory are updated to websites from both public repo (github/huggingface) as well as AI Agent services in cloud service provider (Microsoft Azure AWS, Copilot, GPT Store, Google Cloud, etc). 
 
@@ -13,19 +13,13 @@ Find the AI Agent in any category and get the realtime search/app store/github r
 Register and list your AI agent For Free through (http://www.deepnlp.org/workspace/my_ai_services)
 
 
-### AI Agent Index and Directory
+### AI Agent Index
 
 Website: http://www.deepnlp.org/store/ai-agent
 
 ![AI Agent Marketplace AI Agent Directory](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/docs/ai_agents_navigation.jpg)
 
 #### Track Google/Bing Search Ranking Data
-
-Keep Track of the Daily Search ranking Data of AI agent in the category.
-
-![Search Ranking Performance of newo.ai](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/docs/ai_search_ranking_chart.jpg)
-
-Newo AI Agent: http://deepnlp.org/store/ai-agent/ai-agent-employees/pub-newo-ai/newo-ai
 
 For example, if you want to know the AI coding agent traffic data, you can visit (http://www.deepnlp.org/store/ai-agent#section_Coding%20Agent)
 
@@ -39,169 +33,78 @@ You can track vanna.ai, Cody and Cline bot, etc.
 ![AI Coding Agent](https://raw.githubusercontent.com/AI-Agent-Hub/AI-Agent-Marketplace/refs/heads/main/docs/image_coding_agent_v2.jpg)
 
 
-### Sampled AI Agent List
+## API to Search OpenDomain AI Agent Traffic Data
 
-
-## [ema - universal ai employee](https://www.ema.co/)
-
-
-Ema, a Universal AI Employee, is the leading enterprise partner for building and deploying Agentic AI across all roles and industries.
-<details>
-
-### Website
-https://www.ema.co/
-### Description
-Ema, a Universal AI Employee, is the leading enterprise partner for building and deploying Agentic AI across all roles and industries.
-### Category
-AI Agent Employees
-### Tags
-AI AGENT EMPLOYEES,AI AGENT
-### Reviews
-[ema - universal ai employee Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-ema---universal-ai-employee/ema---universal-ai-employee)
-### Links
-https://www.ema.co/<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-ema---universal-ai-employee/ema---universal-ai-employee<br>
-
-</details>
-
-
-
-## [ibm](https://www.ibm.com/products/watsonx-orchestrate/ai-agent-for-hr)
-
-
-Powered by AI-driven technology, HR agents can easily respond to FAQs, manage time off, employee transfers, payroll, benefits such as healthcare and retirement ...
-<details>
-
-### Website
-https://www.ibm.com/products/watsonx-orchestrate/ai-agent-for-hr
-### Description
-Powered by AI-driven technology, HR agents can easily respond to FAQs, manage time off, employee transfers, payroll, benefits such as healthcare and retirement ...
-### Category
-AI Agent Employees
-### Tags
-HR AGENT,AI AGENT,HUMANOID ROBOT,AI AGENT FRAMEWORK,ENTERTAINMENT,BUSINESS,AI AGENT TOOL,HEALTHCARE,AI SEARCH AGENT,SEARCH RECOMMENDATION,AI AGENT EMPLOYEES,ORCHESTRATING AGENTS
-### Reviews
-[ibm Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-ibm/ibm)
-### Links
-https://www.ibm.com/products/watsonx-orchestrate/ai-agent-for-hr<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-ibm/ibm<br>
-
-</details>
-
-
-
-## [inbenta](https://www.inbenta.com/ai-agents/employee-agent/)
-
-
-Pre-built & customizable AI Agents for a seamless employee experience. Inbenta's AI Agents automate repetitive tasks, freeing employees for high-value work.
-<details>
-
-### Website
-https://www.inbenta.com/ai-agents/employee-agent/
-### Description
-Pre-built & customizable AI Agents for a seamless employee experience. Inbenta's AI Agents automate repetitive tasks, freeing employees for high-value work.
-### Category
-AI Agent Employees
-### Tags
-AI AGENT EMPLOYEES,AI AGENT
-### Reviews
-[inbenta Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-inbenta/inbenta)
-### Links
-https://www.inbenta.com/ai-agents/employee-agent/<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-inbenta/inbenta<br>
-
-</details>
-
-
-
-## [newo ai](https://newo.ai/)
-
-
-Build human-like AI Agents, Receptionists, Sales in minutes, not months. Your most advanced platform for creating AI Employees.
-<details>
-
-### Website
-https://newo.ai/
-### Description
-Build human-like AI Agents, Receptionists, Sales in minutes, not months. Your most advanced platform for creating AI Employees.
-### Category
-AI Agent Employees
-### Tags
-AI AGENT TEACHER,AI AGENT EMPLOYEES,HUMANOID ROBOT,AI AGENT
-### Reviews
-[newo ai Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-newo-ai/newo-ai)
-### Links
-https://newo.ai/<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-newo-ai/newo-ai<br>
-
-</details>
-
-
-
-## [lindy ai](https://www.lindy.ai/)
-
-
-Build AI agents in minutes to automate workflows, save time, and grow your business. · How it works · Close more deals than ever with AI.
-<details>
-
-### Website
-https://www.lindy.ai/
-### Description
-Build AI agents in minutes to automate workflows, save time, and grow your business. · How it works · Close more deals than ever with AI.
-### Category
-AI Agent Employees
-### Tags
-AI SEARCH AGENT,AI AGENT EMPLOYEES,AI AGENT
-### Reviews
-[lindy ai Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-lindy-ai/lindy-ai)
-### Links
-https://www.lindy.ai/<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-lindy-ai/lindy-ai<br>
-
-</details>
-
-
-
-## [borderless ai](https://www.hireborderless.com/ai-agents)
-
-
-Borderless AI is the first AI platform for HR, seamlessly syncing with your company, employees, and laws.
-<details>
-
-### Website
-https://www.hireborderless.com/ai-agents
-### Description
-Borderless AI is the first AI platform for HR, seamlessly syncing with your company, employees, and laws.
-### Category
-AI Agent Employees
-### Tags
-AI AGENT EMPLOYEES,AI AGENT
-### Reviews
-[borderless ai Reviews Traffic and AI Agent Marketplace](http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-borderless-ai/borderless-ai)
-### Links
-https://www.hireborderless.com/ai-agents<br>
-http://www.deepnlp.org/store/ai-agent/ai-agent-employees/pub-borderless-ai/borderless-ai<br>
-
-</details>
-
-
-
-## Install
-
+### Install
 
 ```
 pip install ai_agent_index
 
 ```
 
-## Usage
+### API Seach Agent Web Data Usage
 python 
 
 ```
-import ai_agent_index
-from ai_agent_index.utils import function_to_schema
+
+import ai_agent_index as aa
+import json
+
+def search_ai_agent_traffic_data():
+
+    result = aa.search(q="AI Agents Frameworks LLamaIndex")
+    print ("## DEBUG: search result is|%s" % str(result))
+
+    result2 = aa.search(q="AI Agents Frameworks", limit=20, timeout=5)
+    print ("## DEBUG: search result is|%s" % str(result2))
+
+    result3 = aa.search(q="", limit=20, timeout=5)
+    print ("## DEBUG: Mock search result is|%s" % str(result3))
+
+
+search_ai_agent_traffic_data()
+
 
 ```
+
+### API to Add New AI Agent to AI Agent Marketplace | AI Agent Directory | AI Agent Index for Free
+You can call the API to register the meta information of your AI Agents. Alternatively, you can also use the web page (http://www.deepnlp.org/workspace/my_ai_services) to list your 
+AI Agent.
+
+```
+
+import ai_agent_index as aa
+import json
+
+def publish_your_agent():
+    """
+        Get your access_key from http://www.deepnlp.org/workspace/my_ai_services
+        access_key can be generated from your personal page at: www.deepnlp.orgworkspace/my_ai_services
+        Once you submit, it's pending approval and you can track the data then
+    """
+    access_key = "${your_access_key}"
+    name = "My First AI Agent"
+
+    item_info = {}
+    item_info["content"] = "This AI Agent can help users develop complicated AI Agent Workflow..."
+    item_info["website"] = "https://www.my_first_agent.com"
+    item_info["field"] = "AI AGENT"
+    item_info["subfield"] = "Coding Agent"
+    item_info["content_tag_list"] = "coding,python"
+    result = aa.add(access_key=access_key, name="My First Agent", item_info=item_info)
+    url = result["url"] if "url" in result else ""
+    msg = result["msg"] if "msg" in result else ""
+    print ("## DEBUG: AI Agent Marketplace Post msg is|%s" % str(msg))
+    print ("## DEBUG: AI Agent Marketplace Post url is|%s" % str(url))
+
+
+publish_your_agent()
+
+```
+
+
+
+### AI Agent List
 
 
 ### Related
@@ -222,3 +125,9 @@ from ai_agent_index.utils import function_to_schema
 [AgentGPT AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-agentgpt) <br>
 [Saleforce AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-salesforce-ai-agent) <br>
 [AI Agent Builder Reviews](http://www.deepnlp.org/store/ai-agent/ai-agent-builder) <br>
+##### Robotics
+[Tesla Cybercab Robotaxi](http://www.deepnlp.org/store/pub/pub-tesla-cybercab) <br>
+[Tesla Optimus](http://www.deepnlp.org/store/pub/pub-tesla-optimus) <br>
+[Figure AI](http://www.deepnlp.org/store/pub/pub-figure-ai) <br>
+#### Equation
+[DeepNLP Equation Database](http://www.deepnlp.org/equation) <br>
